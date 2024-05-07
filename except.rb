@@ -1,0 +1,1 @@
+[ 'cat', 'hafdfsdt', nil ].each { |el| puts el.length} rescue puts 'meow'
