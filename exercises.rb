@@ -109,3 +109,10 @@ a = ['white snow', 'winter wonderland', 'melting ice',
      'slippery sidewalk', 'salted roads', 'white trees']
 
 a.map { |phrase| phrase.split(" ") }.flatten
+
+=begin
+[abc, def, ghi,jkl, mno, pqr,stu, vwx, yz]
+['abc def ghi, jkl mno pqr, stu vwx yz'] all strings
+['abc def ghi, jkl mno pqr,stu vwx yz'] two strings
+
+=end

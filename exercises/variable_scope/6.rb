@@ -1,0 +1,1 @@
+# error; no local variable "a" in my_value method
